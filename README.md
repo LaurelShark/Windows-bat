@@ -1,2 +1,2 @@
 # Windows-bat
-University tasks with command line
+OS basics university tasks 
